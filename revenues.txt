@@ -1,0 +1,12 @@
+--------------- revenues 2022 ---------------
+date       |num_R |client        |for          |sum
+-----------+------+--------------+-------------+----
+01/01/2022 |001   |yael malkin   |presentation |5000
+02/03/2022 |002   |dassi malkin  |presentation |4000
+15/04/2022 |003   |chani levin   |movie        |6700
+27/04/2022 |004   |miri malkin   |clip         |3500
+14/05/2022 |005   |yael malkin   |movie        |5500
+02/08/2022 |006   |yosef levi    |presentation |4500
+20/09/2022 |007   |miri levi     |clip         |3500
+12/09/2022 |008   |dani coen     |presentation |4500
+01/10/2022 |009   |gadi shalom   |movie        |4500

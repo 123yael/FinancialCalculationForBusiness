@@ -1,0 +1,8 @@
+-------------------- expenses 2022 --------------------
+date       |for               |sum     |Payment method
+-----------+------------------+--------+---------------
+05/01/2022 |buying fonts      |500     |credit card
+04/03/2022 |computer screen   |3000    |credit card
+25/03/2022 |office equipment  |2000    |cash
+12/04/2022 |printer Ink       |500     |credit card
+07/08/2022 |buying lopes      |3000    |cash

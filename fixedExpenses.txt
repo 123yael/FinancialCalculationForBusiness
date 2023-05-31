@@ -1,0 +1,8 @@
+------------ fixedExpenses 2022 -----------
+reason            |sum     |Payment method
+------------------+--------+----------------
+software rental   |150     |bank transfer
+the office rent   |1500    |credit card
+cleaner           |500     |cash
+freepik website   |20      |bank transfer
+place on the net  |50      |bank transfer
